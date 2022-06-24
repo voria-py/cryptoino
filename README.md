@@ -17,7 +17,11 @@ Import `crypto_info` to your project and use Coin() class
 ## using example
 
 `from crypto_info import Coin`
+<br>
+
 `doge = Coin(name="dogecoin" , target_currency="usd")`
+<br>
+
 `print("Current btc price:", doge.get_current_price(),"USD")`
 
 
