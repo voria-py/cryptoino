@@ -88,6 +88,3 @@ class Coin:
         
 
 
-
-dogecoin = Coin(name="dogecoin" , target_currency="usd")
-print(dogecoin.get_current_price())
