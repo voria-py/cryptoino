@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: cryptoino
+Version: 0.4.0
+Summary: cryptocurrencies information from coingecko
+Home-page: https://github.com/amirkho-py/cryptoino
+Author: Amirhossein Khosravi
+Author-email: me@amirkho.ir
+License: MIT
+Keywords: cryptoino,coingecko,crypto info,crypto price,cryptocurrencies
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
 # Crypto info module
 A python module to get 12,000 cryptocurrencies information from coingecko
 ## Tech Stack
@@ -32,6 +47,8 @@ Successful test on:
 - Python 3.7
 - Python 3.8
 - Python 3.10
+
+
 
 
 
