@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
         # the name must match the folder name 'verysimplemodule'
         name="cryptoino", 
-        version='0.4.0',
+        version='0.5.0',
         author="Amirhossein Khosravi",
         author_email="me@amirkho.ir",
         url="https://github.com/amirkho-py/cryptoino",
