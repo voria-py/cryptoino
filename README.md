@@ -11,7 +11,7 @@ Sure to have request module
 
 Clone or download this project.
 
-Import `crypto_info` to your project and use `Coin()` class
+Import `cryptoino` to your project and use `Coin()` class
 
 
 ## using example

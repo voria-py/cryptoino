@@ -1,8 +1,10 @@
 '''
+Cryptoino
 Crypto info module
 By: https://amirkho.ir
 github: https://github.com/amirkho-py
 instagram: https://instagram.com/amirkho.ir
+
 '''
 
 
@@ -78,6 +80,7 @@ class Coin:
         '''
         this method is for get price_change_percentage_24h. get_price_change_percentage_24h()
         '''
+        
         change_24h = float(self.coin_full_data['market_data']['price_change_percentage_24h'])
         if change_24h >= 0:
             change_24h = '+'+str(change_24h)

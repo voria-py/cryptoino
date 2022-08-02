@@ -2,7 +2,7 @@
 some examples of using crypto_info
 '''
 
-from crypto_info import Coin
+from cryptoino import Coin
 
 # Get list of all supported coins
 # print(Coin.get_coin_list())
